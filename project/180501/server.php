@@ -6,7 +6,7 @@
  * Time: 22:04
  */
 
-require '../../bootstrap/autoload.php';
+require_once '../../bootstrap/autoload.php';
 
 //创建SERVER,监听9501端口
 $serv = new swoole_server('0.0.0.0', 9501);
