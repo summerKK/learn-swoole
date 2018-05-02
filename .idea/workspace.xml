@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ad2239f-f7f8-4873-991d-dcb4a585c204" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/project/basics/async_client.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/basics/client.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learn-sw.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learn-sw.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/180501/async_task.php" beforeDir="false" afterPath="$PROJECT_DIR$/project/basics/async_task.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/180501/http_server.php" beforeDir="false" afterPath="$PROJECT_DIR$/project/basics/http_server.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/180501/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/project/basics/server.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/180501/ws_server.php" beforeDir="false" afterPath="$PROJECT_DIR$/project/basics/ws_server.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,8 +37,8 @@
       <file leaf-file-name="async_client.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project/basics/async_client.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+            <state relative-caret-position="290">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -207,7 +199,7 @@
       <option name="presentableId" value="Default" />
       <updated>1525182478951</updated>
       <workItem from="1525182480332" duration="7717000" />
-      <workItem from="1525277379270" duration="2029000" />
+      <workItem from="1525277379270" duration="2285000" />
     </task>
     <task id="LOCAL-00001" summary="bug fix">
       <created>1525196739029</created>
@@ -216,23 +208,37 @@
       <option name="project" value="LOCAL" />
       <updated>1525196739030</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="~~~~~~~~~~~~">
+      <created>1525279896331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1525279896331</updated>
+    </task>
+    <task id="LOCAL-00003" summary="~~~~~~~~~~">
+      <created>1525280035011</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525280035011</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9746000" />
+    <option name="totallyTimeSpent" value="10002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13752665" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13752665" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3292683" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.24944568" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -250,12 +256,40 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bug fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug fix" />
+    <MESSAGE value="~~~~~~~~~~~~" />
+    <MESSAGE value="~~~~~~~~~~" />
+    <option name="LAST_COMMIT_MESSAGE" value="~~~~~~~~~~" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/project/basics/server.php">
@@ -378,8 +412,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project/basics/async_client.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        <state relative-caret-position="290">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
