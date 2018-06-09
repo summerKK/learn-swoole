@@ -6,7 +6,6 @@
  * Time: 1:05
  */
 
-require_once '../../bootstrap/autoload.php';
 
 $serv = new swoole_websocket_server('0.0.0.0', 9501);
 

@@ -6,7 +6,6 @@
  * Time: 0:30
  */
 
-require_once '../../bootstrap/autoload.php';
 
 $serv = new swoole_http_server('0.0.0.0', 9501);
 
