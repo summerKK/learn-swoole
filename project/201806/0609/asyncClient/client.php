@@ -56,10 +56,7 @@ EOF;
 
     public function onClose(swoole_client $cli)
     {
-        echo <<<EOF
-client close connection
-EOF;
-
+        $this->_client->close();
     }
 
     public function onError()
